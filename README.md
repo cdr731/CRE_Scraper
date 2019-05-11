@@ -4,7 +4,7 @@ Application used to pull CRE contacts into a CSV file
 - Perform a search for the contacts that are 'deal makers'.
 ### Step 2 - Extract pages
 - Open each result page and save as an .html file; use separate file names so they don't overwrite.
-- Copy the 'ResultContactCpd' files (.html) out of the folder and rename them anything; keep .html extensions.
+- Copy the 'R#s#ltC#ntactCpd' files (.html) out of the folder and rename them anything; keep .html extensions.
 ### Step 3 - Relocate the .html files
 - Copy the files into the 'html_files' folder.
 ### Step 4 - Run progam
