@@ -1,4 +1,4 @@
-# cxxxxr
+# cre_scraper
 Application used to pull CRE contacts into a CSV file
 ### Step 1 - Search in 'popular CRE program'
 - Perform a search for the contacts that are 'deal makers'.
