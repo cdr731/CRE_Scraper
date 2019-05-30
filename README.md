@@ -2,6 +2,7 @@
 Application used to pull CRE contacts into a CSV file
 ### Step 1 - Search in 'popular CRE program'
 - Perform a search for the contacts that are 'deal makers'.
+- 'Modify table layout' so that the 'Selected Fields' are 'Title', 'Phone', 'Address', 'City', and 'St' (state) in this order.
 ### Step 2 - Extract pages
 - Open each result page and save as an .html file; use separate file names so they don't overwrite.
 - Copy the 'R\~s\~ltC\~nt\~ctCpd' files (.html) out of the folder and rename them anything; keep .html extensions.
